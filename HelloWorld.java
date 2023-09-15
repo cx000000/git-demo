@@ -20,6 +20,8 @@ public class HelloWorld {
                 "helloWorld\n" +
                 "helloWorld\n" +
                 "helloWorld test\n" +
-                "helloWorld test1");
+                "helloWorld test1\n" +
+                "helloWorld pull"
+                          );
     }
 }
